@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4074c50a.css",
+    "main.js": "/static/js/main.df548d25.js",
+    "static/media/JetBrainsMono-Regular.woff2": "/static/media/JetBrainsMono-Regular.1e66c47aca088de94ae7.woff2",
+    "static/media/Futurium-Regular.woff": "/static/media/Futurium-Regular.c2af6aa10b0538eb9813.woff",
+    "static/media/Futurium-Regular.woff2": "/static/media/Futurium-Regular.ae670c4aca99ffe03b60.woff2",
+    "index.html": "/index.html",
+    "main.4074c50a.css.map": "/static/css/main.4074c50a.css.map",
+    "main.df548d25.js.map": "/static/js/main.df548d25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4074c50a.css",
+    "static/js/main.df548d25.js"
+  ]
+}
